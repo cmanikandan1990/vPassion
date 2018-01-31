@@ -15,8 +15,8 @@ search_base:
 search_filter:
 
 # AZ configuration for Ops Director
-az_1_cluster_name: CHANGEME            # Name of cluster in vCenter for AZ1
-az_1_name: CHANGEME                    # Logical name of availability zone. No spaces or special characters.
+az_1_cluster_name: Cluster1            # Name of cluster in vCenter for AZ1
+az_1_name: AZ1                    # Logical name of availability zone. No spaces or special characters.
 az_1_rp_name: CHANGEME                 # Resource pool name in vCenter for AZ1
 az_2_cluster_name: CHANGEME            # Name of cluster in vCenter for AZ2
 az_2_name: CHANGEME                    # Logical name of availability zone. No spaces or special characters.
