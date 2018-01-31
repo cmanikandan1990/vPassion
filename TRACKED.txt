@@ -1,0 +1,3 @@
+This is an TRACKED FILE
+
+Adding a second line to the file to test tracking
