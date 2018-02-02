@@ -1,4 +1,0 @@
-This is an UNTRACKED FILE
-
-Adding a second line to untracked file
-Adding somthing to UNTRACKED file
